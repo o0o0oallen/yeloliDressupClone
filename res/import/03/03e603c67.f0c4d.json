@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"eff_star_006","texture":"8dkF6zBQ5L9qdbLOz7afMp","rect":[0,0,256,256],"offset":[0,0],"originalSize":[256,256],"capInsets":[0,0,0,0]}},{"__type__":"cc.ParticleAsset","_name":"star_001","_native":".plist","spriteFrame":{"__uuid__":"43KjUtOJVCJ6SuQkBDC3OJ"}}]
